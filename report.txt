@@ -1,0 +1,47 @@
+========== Top 10 performance delay sequences ==========
+Sequence 487, Score: 33.0
+Sequence 489, Score: 32.0
+Sequence 460, Score: 30.0
+Sequence 214, Score: 29.124332687207538
+Sequence 275, Score: 29.0
+Sequence 8, Score: 22.0
+Sequence 427, Score: 21.01376369231464
+Sequence 4, Score: 17.0
+Sequence 23, Score: 16.0
+Sequence 64, Score: 16.0
+
+========== Top 10 env performance delay sequences ==========
+Sequence 4, Score: 12.0
+Sequence 8, Score: 12.0
+Sequence 23, Score: 12.0
+Sequence 64, Score: 12.0
+Sequence 103, Score: 12.0
+Sequence 111, Score: 12.0
+Sequence 242, Score: 12.0
+Sequence 367, Score: 12.0
+Sequence 387, Score: 12.0
+Sequence 487, Score: 12.0
+
+========== Top 10 point performance delay sequences ==========
+Sequence 214, Score: 20.0
+Sequence 275, Score: 20.0
+Sequence 460, Score: 20.0
+Sequence 487, Score: 20.0
+Sequence 489, Score: 20.0
+Sequence 8, Score: 10.0
+Sequence 250, Score: 10.0
+Sequence 286, Score: 10.0
+Sequence 365, Score: 10.0
+Sequence 427, Score: 10.0
+
+========== Top 10 order performance delay sequences ==========
+Sequence 133, Score: 6.0
+Sequence 447, Score: 6.0
+Sequence 142, Score: 5.020362192501378
+Sequence 215, Score: 5.020362192501378
+Sequence 412, Score: 5.020362192501378
+Sequence 4, Score: 5.0
+Sequence 60, Score: 5.0
+Sequence 79, Score: 5.0
+Sequence 122, Score: 5.0
+Sequence 147, Score: 5.0
